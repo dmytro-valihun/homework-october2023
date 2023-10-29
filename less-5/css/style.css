@@ -1,0 +1,118 @@
+.body {
+    font-family: Tahoma, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin: 0;
+}
+
+.header {
+    background-color: #343B42;
+    background-image: url(../img/girl.jpg);
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+.container {
+    width: 1040px;
+    margin: 0 auto;
+}
+
+.logo {
+    padding: 32px 0 50px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #fff;
+    margin-right: 40px;
+}
+
+.btn-contact {
+    margin-top: 47px;
+    background-color: #62D0DF;
+    padding: 20px 55px;
+    border: none;
+    color: #fff;
+}
+
+.header-h1 {
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 110%;
+    width: 500px;
+}
+
+.header-p {
+    color: #D6D6D6;
+    font-size: 24px;
+    line-height: 140%;
+    width: 500px;
+}
+
+.btn-who {
+    margin-top: 50px;
+    background-color: #F9B640;
+    padding: 20px 65px;
+    border: none;
+    color: #fff;
+}
+
+.what-do {
+    margin-top: 31px;
+    padding-bottom: 50px;
+    font-weight: 700;
+    line-height: 150.879%;
+    letter-spacing: 1.6px;
+}
+.what-do a {
+    color: #FAB63E;
+    text-decoration: none;
+}
+/* ---- main ----- */
+
+.section-1 {
+    margin: 64px auto 102px;
+}
+.main-section-1 {
+    color: #000;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 110%;
+    margin: 0;
+}
+.section-1-div {
+    text-align: center;
+    padding: 44px 40px;
+    color: #0B0B0B;
+    font-size: 24px;
+    line-height: 140%;
+}
+
+/* ----- sec section ------ */
+
+.section-2 {
+    background-image: url(../img/tea.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+.section-2-in {
+    padding-top: 65px;
+    padding-bottom: 184px;
+}
+
+.section-2-in h2 {
+    color: #720E0E;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 110%;
+    margin: 0;
+    padding-bottom: 63px;
+}
+.section-2-in p {
+    width: 980px;
+    color: #FFF;
+    font-size: 24px;
+    line-height: 140%;
+}

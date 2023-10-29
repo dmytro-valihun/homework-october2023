@@ -1,0 +1,8 @@
+.shop {
+    display: flex;
+}
+.shop > div {
+    flex-grow: 1;
+    min-height: 50px;
+    border: 1px solid black;
+}
